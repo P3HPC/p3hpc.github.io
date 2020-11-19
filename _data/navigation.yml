@@ -1,0 +1,20 @@
+- name: Workshop
+  link: /workshop/2020/
+- name: Forum
+  link: https://p3hpcforum2020.alcf.anl.gov/
+- name: Previous Events
+  dropdown: 
+    - name: Workshop 2020
+      link: https://p3hpcworkshop2020.alcf.anl.gov/
+    - name: Workshop 2019
+      link: https://p3hpc2019.lbl.gov/
+    - name: Workshop 2018
+      link: https://p3hpc2018.lbl.gov/
+    - name: Forum 2020
+      link: https://p3hpcforum2020.alcf.anl.gov/
+    - name: Forum 2019
+      link: https://doep3meeting2019.lbl.gov/
+    - name: Forum 2017
+      link: https://www.lanl.gov/asc/doe-coe-mtg-2017.php
+    - name: Forum 2016
+      link: https://asc.llnl.gov/DOE-COE-Mtg-2016/

@@ -1,0 +1,15 @@
+style: is-light
+height: is-small
+items:
+  - title: Workshop
+    icon: fa-tools
+    description: >
+      Peer-reviewed academic papers. Held in conjunction with Supercomputing (SC).
+    call_to_action_name: See latest
+    call_to_action_link: /workshop/2020/
+  - title: Forum
+    icon: fa-comments
+    description: >
+      Technical presentations, breakout sessions, panel discussions and technical posters.
+    call_to_action_name: See latest
+    call_to_action_link: https://p3hpcforum2020.alcf.anl.gov/
