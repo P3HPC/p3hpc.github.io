@@ -4,6 +4,7 @@ subtitle: held in conjunction with the International Conference for High Perform
 layout: page
 show_sidebar: false
 menubar: 2020_menubar
+permalink: /workshop/2020/agenda/
 ---
 
 # Agenda
