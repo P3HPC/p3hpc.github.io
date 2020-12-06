@@ -6,7 +6,7 @@ items:
     description: >
       Peer-reviewed academic papers. Held in conjunction with Supercomputing (SC).
     call_to_action_name: See latest
-    call_to_action_link: /workshop/2020
+    call_to_action_link: /workshop/2020/
   - title: Forum
     icon: fa-comments
     description: >
