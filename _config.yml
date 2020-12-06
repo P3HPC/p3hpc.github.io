@@ -21,7 +21,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://p3hpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: p3hpc
 github_username:  p3hpc
-permalink: /:categories/:year/:month/:day/:title/
+#permalink: /:categories/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
