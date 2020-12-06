@@ -1,10 +1,10 @@
 - label: Menu
   items:
     - name: Call for Papers
-      link: /workshop/2020/
+      link: /workshop/2020
     - name: Submissions
-      link: /workshop/2020/submissions/ 
+      link: /workshop/2020/submissions
     - name: Agenda
-      link: /workshop/2020/agenda/
+      link: /workshop/2020/agenda
     - name: Committee
-      link: /workshop/2020/committee/
+      link: /workshop/2020/committee
