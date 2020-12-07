@@ -1,17 +1,31 @@
 - name: Workshop
   link: /workshop/2020/
+  dropdown:
+    - name: Call for Papers
+      link: /workshop/2020/
+    - name: Submissions
+      link: /workshop/2020/submissions/
+    - name: Agenda
+      link: /workshop/2020/agenda/
+    - name: Committee
+      link: /workshop/2020/committee/
 - name: Forum
   link: https://p3hpcforum2020.alcf.anl.gov/
+  dropdown:
+    - name: Call for Papers
+      link: https://p3hpcforum2020.alcf.anl.gov/call-for-participation/
+    - name: Submissions
+      link: https://p3hpcforum2020.alcf.anl.gov/call-for-participation/
+    - name: Agenda
+      link: https://p3hpcforum2020.alcf.anl.gov/agenda/
+    - name: Committee
+      link: https://p3hpcforum2020.alcf.anl.gov/committee/
 - name: Previous Events
   dropdown: 
-    - name: Workshop 2020
-      link: https://p3hpcworkshop2020.alcf.anl.gov/
     - name: Workshop 2019
       link: https://p3hpc2019.lbl.gov/
     - name: Workshop 2018
       link: https://p3hpc2018.lbl.gov/
-    - name: Forum 2020
-      link: https://p3hpcforum2020.alcf.anl.gov/
     - name: Forum 2019
       link: https://doep3meeting2019.lbl.gov/
     - name: Forum 2017
