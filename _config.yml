@@ -17,7 +17,7 @@ title: P3HPC
 email: website@p3hpc.org
 description: >- # this means to ignore newlines until "baseurl:"
   Performance, Portability & Productivity in HPC
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://p3hpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: p3hpc
 github_username:  p3hpc
