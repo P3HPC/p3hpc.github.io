@@ -1,6 +1,5 @@
 ---
-title: 2020 International Workshop on Performance, Portability & Productivity in P3HPC
-subtitle: held in conjunction with the International Conference for High Performance Computing, Networking, Storage and Analysis (SC20)
+title: 2020 International Workshop on Performance, Portability & Productivity in HPC
 layout: page
 show_sidebar: false
 menubar: 2020_menubar
