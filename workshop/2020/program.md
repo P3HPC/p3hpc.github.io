@@ -199,9 +199,9 @@ All times below are in Eastern.
  </a>
  <a class="button is-primary" href="https://drive.google.com/file/d/1krT1e-Itx86cGC6ui3m5OlBjyP7k4DdH/view?usp=sharing">
   <span class="icon is-small">
-   <i class="fas fa-file-alt"></i>
+   <i class="fas fa-chalkboard-teacher"></i>
   </span>
-  <span>Paper</span>
+  <span>Slides</span>
  </a>
 </div>
 </p>
