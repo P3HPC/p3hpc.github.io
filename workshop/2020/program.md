@@ -143,7 +143,7 @@ All times below are in Eastern.
   </span>
   <span>Paper</span>
  </a>
- <a class="button is-primary" href="" disabled>
+ <a class="button is-primary" href="https://drive.google.com/file/d/1en2YjuaapegJyxLfnZNN0A8mFLgO_aS2/view?usp=sharing">
   <span class="icon is-small">
    <i class="fas fa-chalkboard-teacher"></i>
   </span>
