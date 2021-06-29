@@ -1,14 +1,14 @@
 - name: Workshop
-  link: /workshop/2020/
+  link: /workshop/2021/
   dropdown:
     - name: Call for Papers
-      link: /workshop/2020/
+      link: /workshop/2021/
     - name: Submissions
-      link: /workshop/2020/submissions/
+      link: /workshop/2021/submissions/
     - name: Program
-      link: /workshop/2020/program/
+      link: /workshop/2021/program/
     - name: Committee
-      link: /workshop/2020/committee/
+      link: /workshop/2021/committee/
 - name: Forum
   link: https://p3hpcforum2020.alcf.anl.gov/
   dropdown:
@@ -22,6 +22,8 @@
       link: https://p3hpcforum2020.alcf.anl.gov/committee/
 - name: Previous Events
   dropdown: 
+    - name: Workshop 2020
+      link: /workshop/2020/
     - name: Workshop 2019
       link: https://p3hpc2019.lbl.gov/
     - name: Workshop 2018
