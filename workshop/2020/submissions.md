@@ -4,6 +4,8 @@ layout: page
 show_sidebar: false
 menubar: 2020_menubar
 permalink: /workshop/2020/submissions/
+hide_footer: true
+css: sc20
 ---
 
 # Submitting a Paper

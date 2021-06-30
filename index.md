@@ -5,6 +5,7 @@ layout: page
 comments: false
 show_sidebar: true
 callouts: home_callouts
+hide_footer: true
 ---
 
 # About P3HPC

@@ -4,6 +4,8 @@ layout: page
 show_sidebar: false
 menubar: 2021_workshop_menubar
 permalink: /workshop/2021/program/
+css: sc21
+hide_footer: true
 ---
 
 # Program
