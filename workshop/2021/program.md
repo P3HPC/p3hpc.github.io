@@ -12,4 +12,238 @@ hide_footer: true
 
 The P3HPC workshop will be an all-day event on Sunday, 14 November 2021 from 9:00AM - 5:30PM Central.
 
-Similar to previous years, the final agenda will comprise of a keynote, technical talks and a panel of invited experts.  Please check back later for updates.
+### Featured Speaker
+
+<p>
+<b>09:00 - 10:00</b><br />
+<b>Parallelism in Standard Languages</b><br />
+<i>Bryce Lelbach</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+</a>
+</div>
+</p>
+
+<hr>
+
+### Break
+
+**10:00 - 10:30**
+
+<hr>
+
+### Session 1
+
+<p>
+<b>10:30 - 10:55</b><br />
+<b>Revisiting a Metric for Performance Portability</b><br />  
+<i>John Pennycook, Intel Corporation</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+ </a>
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
+
+<p>
+<b>10:55 - 11:20</b><br /> 
+<b>Mamba: Portable Array-based Abstractions for Heterogeneous High-Performance Systems</b><br />
+<i>Tim Dykes, Hewlett Packard Enterprise</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+ </a>
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
+
+<p>
+<b>11:20 - 11:45</b><br /> 
+<b>oneAPI Open-Source Math Library Interface</b><br />
+<i>Mariia Krainiuk, Intel Corporation</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+ </a>
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
+
+<p>
+<b>11:45 - 12:10</b><br /> 
+<b>Analyzing Reduction Abstractions Capabilities</b><br />
+<i>Tom Deakin, University of Bristol</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+ </a>
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
+
+### Break
+
+**12:10 - 14:00**
+
+<hr>
+
+### Session 2
+
+<p>
+<b>14:00 - 14:25</b><br />
+<b>Evaluation of Performance Portable Programming Models and Framework across AMD, Intel and NVIDIA GPUs using Applications and Mini-Apps</b><br />  
+<i>JaeHyuk Kwack, Argonne National Laboratory</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+ </a>
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
+
+<p>
+<b>14:25 - 14:50</b><br />
+<b>Case Study of Using Kokkos and SYCL as Performance-Portable Frameworks for MILC-DSLASH Benchmark on NVIDIA, AMD and Intel GPUs</b><br />  
+<i>Amanda Dufek, Lawrence Berkeley National Laboratory</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+ </a>
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
+
+### Break
+
+**14:50 - 15:30**
+
+<hr>
+
+### Session 3
+
+<p>
+<b>15:30 - 15:55</b><br />
+<b>Evaluating Performance and Portability of a Core Bioinformatics Kernel on Multiple Vendor GPUs</b><br />  
+<i>Muhammad Haseeb, Florida International University</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+ </a>
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
+
+<p>
+<b>15:55 - 16:20</b><br />
+<b>Optimization Strategy for a Performance Portable Vlasov Code</b><br />  
+<i>Yuuichi Asahi, Japan Atomic Energy Agency</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-file-alt"></i>
+  </span>
+  <span>Paper</span>
+ </a>
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
+
+### Panel
+
+<p>
+<b>16:20 - 17:30</b><br /> 
+<b>Healing the Gaps and Growing the Scope of Performance, Portability and Productivity</b><br /> 
+<i>C.J. Newburn, Rich Hornung, Bryce Lelbach, Christian Trott, Tom Deakin</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="" disabled>
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+ </a>
+</div>
+</p>
+
+<hr>
