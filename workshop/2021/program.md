@@ -235,7 +235,7 @@ The P3HPC workshop will be an all-day event on Sunday, 14 November 2021 from 9:0
 <p>
 <b>16:20 - 17:30</b><br /> 
 <b>Healing the Gaps and Growing the Scope of Performance, Portability and Productivity</b><br /> 
-<i>C.J. Newburn, Rich Hornung, Bryce Adelstein Lelbach, Christian Trott, Tom Deakin</i><br />
+<i>C.J. Newburn, Adam Kunen, Bryce Adelstein Lelbach, Christian Trott, Tom Deakin, Bo Zhang</i><br />
 <div class="buttons">
  <a class="button is-primary" href="" disabled>
   <span class="icon is-small">
