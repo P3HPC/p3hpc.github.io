@@ -13,3 +13,9 @@ items:
       Technical presentations, breakout sessions, panel discussions and technical posters.
     call_to_action_name: See latest
     call_to_action_link: https://p3hpcforum2020.alcf.anl.gov/
+  - title: Principles
+    icon: fa-book
+    description: >
+       Our principles and expectations; clear guidance for authors and reviewers.
+    call_to_action_name: See here
+    call_to_action_link: principles
