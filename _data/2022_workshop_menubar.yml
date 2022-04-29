@@ -1,0 +1,10 @@
+- label: Menu
+  items:
+    - name: Call for Papers
+      link: /workshop/2022/
+    - name: Submissions
+      link: /workshop/2022/submissions/ 
+    - name: Program
+      link: /workshop/2022/program/
+    - name: Committee
+      link: /workshop/2022/committee/
