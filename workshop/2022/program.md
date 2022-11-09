@@ -38,6 +38,9 @@ The P3HPC workshop will be an all-day event on Sunday, 13 November 2022 from 8:3
 <hr>
 
 ### Session 1
+<p>
+<i>Session Chair: Scott Parker</i>
+</p>
 
 <p>
 <b>09:15 - 09:37 CST</b><br />
@@ -93,6 +96,9 @@ The P3HPC workshop will be an all-day event on Sunday, 13 November 2022 from 8:3
 <hr>
 
 ### Session 2
+<p>
+<i>Session Chair: Judy Hill</i>
+</p>
 
 <p>
 <b>10:30 - 10:52 CST</b><br />
@@ -196,6 +202,9 @@ The P3HPC workshop will be an all-day event on Sunday, 13 November 2022 from 8:3
 <hr>
 
 ### Session 3
+<p>
+<i>Session Chair: John Pennycook</i>
+</p>
 
 <p>
 <b>13:30 - 13:53 CST</b><br />
@@ -299,6 +308,9 @@ The P3HPC workshop will be an all-day event on Sunday, 13 November 2022 from 8:3
 <hr>
 
 ### Session 4
+<p>
+<i>Session Chair: CJ Newburn</i>
+</p>
 
 <p>
 <b>15:30 - 15:53 CST</b><br />
