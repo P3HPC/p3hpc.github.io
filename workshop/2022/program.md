@@ -19,12 +19,6 @@ The P3HPC workshop will be an all-day event on Sunday, 13 November 2022 from 8:3
 <b>A Decade of Performance Portability: Lessons Learned</b><br />
 <i>Christian Trott</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
-<span class="icon is-small">
-<i class="fas fa-file-alt"></i>
-</span>
-<span>Paper</span>
-</a>
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=misc197&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
@@ -364,13 +358,14 @@ The P3HPC workshop will be an all-day event on Sunday, 13 November 2022 from 8:3
 <p>
 <b>16:15 - 17:00 CST</b><br />
 <b>Blending Accelerated Programming Models in the Face of Increasing Hardware Diversity</b><br />
-<i>CJ Newburn</i><br />
+<i>Moderator: CJ Newburn</i><br />
+<i>Panelists: Tom Deakin, Ben Menadue, Christian Trott, Ana Lucia Varbanescu</i><br />
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
-<i class="fas fa-file-alt"></i>
+<i class="fas fa-file-powerpoint"></i>
 </span>
-<span>Paper</span>
+<span>Slides</span>
 </a>
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=miscp111&sess=sess428">
 <span class="icon is-small">
