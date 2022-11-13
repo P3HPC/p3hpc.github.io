@@ -361,7 +361,7 @@ The P3HPC workshop will be an all-day event on Sunday, 13 November 2022 from 8:3
 <i>Moderator: CJ Newburn</i><br />
 <i>Panelists: Tom Deakin, Ben Menadue, Christian Trott, Ana Lucia Varbanescu</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://docs.google.com/presentation/d/1ByRl0vIM-DUX3yRuUCrqopHhAotAL14e/">
 <span class="icon is-small">
 <i class="fas fa-file-powerpoint"></i>
 </span>
