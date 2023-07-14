@@ -3,5 +3,4 @@
 - **August 11**: Paper Submission Deadline
 - **September 8**: Author Notification
 - **September 29**: Camera-Ready Submissions and Backup Recordings Due
-- **October 14**: Camera-Ready Submissions Due
 - **November 12, 13 or 17**: P3HPC Workshop
