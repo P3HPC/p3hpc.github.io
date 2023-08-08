@@ -11,9 +11,9 @@ hide_footer: true
 # Submitting a Paper
 
 Authors are invited to submit original papers of no more than 12 pages,
-including tables, figures, and all appendices, but not including references.
-Papers must be at least 8 pages long, not including references.  Full papers
-will be published in the SC23 Workshops Proceedings. 
+including tables, figures, references, and all appendices. Papers must be at
+least 6 pages long.  Full papers will be published in the SC23 Workshops
+Proceedings.
 
 All submissions must be formatted using the ACM templates and CCS2012 guide
 that are found [here](http://www.acm.org/publications/article-templates/proceedings-template.html/).
