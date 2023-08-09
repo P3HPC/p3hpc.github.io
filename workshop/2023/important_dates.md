@@ -1,6 +1,5 @@
 - **May 1**: Submissions Open
-- **August 7**: Abstract Submission Deadline
-- **August 11**: Paper Submission Deadline
+- **August 17**: Abstract & Paper Submission Deadline
 - **September 8**: Author Notification
 - **September 29**: Camera-Ready Submissions and Backup Recordings Due
 - **November 12, 13 or 17**: P3HPC Workshop
