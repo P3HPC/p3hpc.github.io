@@ -170,7 +170,7 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <p>
 <b>10:48 - 10:57 MST</b><br />
 <b>Porting Batched Iterative Solvers onto Intel GPUs with SYCL </b><br />
-<i><b><u>Phuong Nguyen, Pratik Nayak, and Hartwig Anzt</i><br />
+<i>Phuong Nguyen, Pratik Nayak, and Hartwig Anzt</i><br />
 
 <!--
 <div class="buttons">
