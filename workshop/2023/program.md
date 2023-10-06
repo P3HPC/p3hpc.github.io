@@ -108,13 +108,15 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 ### Session 2
 <p>
-<i>Session Chair: Judy Hill</i>
+<i>Session Chair: </i>
 </p>
 
 <p>
-<b>10:30 - 10:52 CST</b><br />
-<b>Understanding Strong Scaling on GPUs Using Empirical Performance Saturation Size</b><br />
-<i><b><u>David Eberius</u></b>, David Rogers, Philip Roth</i><br />
+<b>10:30 - 10:39 MST</b><br />
+<b>Benchmarking a portable lattice quantum chromodynamics kernel written in Kokkos and MPI </b><br />
+<i>Simon Schlepphorst and Stefan Krieg</i><br />
+
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -129,6 +131,8 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
 
@@ -136,9 +140,11 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 
 <p>
-<b>10:52 - 11:15 CST</b><br />
-<b>Portable and Efficient Dense Linear Algebra in the Beginning of the Exascale Era</b><br />
-<i>Mark Gates, <b><u>Asim YarKhan</u></b>, Dalal Sukkari, Kadir Akbudak, Sebastien Cayrols, Daniel Bielich, Ahmad Abdelfattah, Mohammed Al Farhan, Jack Dongarra</i><br />
+<b>10:39 - 10:48 MST</b><br />
+<b>MatRIS: Multilevel Math Library Abstraction for Heterogeneity and Performance Portability using IRIS Runtime </b><br />
+<i>Mohammad Alaul Haque Monil, Narasinga Rao Miniskar, Keita Teranishi, Jeffrey S. Vetter, and Pedro Valero-Lara</i><br />
+
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -153,6 +159,8 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
 
@@ -160,9 +168,11 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 
 <p>
-<b>11:15 - 11:37 CST</b><br />
-<b>Exploiting Dynamic Sparse Matrices for Performance Portable Linear Algebra Operations</b><br />
-<i><b><u>Christodoulos Stylianou</u></b>, Michele Weiland</i><br />
+<b>10:48 - 10:57 MST</b><br />
+<b>Porting Batched Iterative Solvers onto Intel GPUs with SYCL </b><br />
+<i><b><u>Phuong Nguyen, Pratik Nayak, and Hartwig Anzt</i><br />
+
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -177,50 +187,25 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
 
 <hr>
 
-
-<p>
-<b>11:37 - 12:00 CST</b><br />
-<b>Performance Portability of Sparse Block Diagonal Matrix Multiple Vector Multiplications on GPUs</b><br />
-<i><b><u>Khaled Ibrahim</u></b>, Chao Yang, Pieter Maris</i><br />
-<div class="buttons">
-<a class="button is-primary" href="" disabled>
-<span class="icon is-small">
-<i class="fas fa-file-alt"></i>
-</span>
-<span>Paper</span>
-</a>
-<a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc109&sess=sess428">
-<span class="icon is-small">
-<i class="fas fa-chalkboard-teacher"></i>
-</span>
-<span>Session</span>
-</a>
-</div>
-</p>
-
-
-<hr>
-
-### Lunch Break
-
-**12:00 - 13:30 CST**
-
-<hr>
 
 ### Session 3
 <p>
-<i>Session Chair: John Pennycook</i>
+<i>Session Chair: </i>
 </p>
 
 <p>
-<b>13:30 - 13:53 CST</b><br />
-<b>Performance Portable Vlasov Code with C++ Parallel Algorithm</b><br />
-<i><b><u>Yuuichi Asahi</u></b>, Thomas Padioleau, Guillaume Latu, Julien Bigot, Virginie Grandgirard, Kevin Obrejan</i><br />
+<b>10:57 - 11:16 MST</b><br />
+<b>Evaluating the Performance of One-sided Communication on CPUs and GPUs </b><br />
+<i>Nan Ding, Muhammad Haseeb, Taylor Groves, and Samuel Williams</i><br />
+
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -235,6 +220,8 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
 
@@ -242,9 +229,11 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 
 <p>
-<b>13:53 - 14:15 CST</b><br />
-<b>Toward Cross-Platform Portability of Coupled-Cluster Methods with Perturbative Triples Using SYCL</b><br />
-<i><b><u>Abhishek Bagusetty</u></b>, Ajay Panyala, Gordon Brown, Jack Kirk</i><br />
+<b>11:16 - 11:25 MST</b><br />
+<b>Performance Portability of Programming Strategies for Nearest-Neighbor Communication with GPU-Aware MPI </b><br />
+<i>James B. White III</i><br />
+
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -259,74 +248,24 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
-
-<hr>
-
-
-<p>
-<b>14:15 - 14:38 CST</b><br />
-<b>From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels</b><br />
-<i><b><u>Gregor Daiß</u></b>, Patrick Diehl, Dominic Marcello, Alireza Kheirkhahan, Hartmut Kaiser, Dirk Pflüger</i><br />
-<div class="buttons">
-<a class="button is-primary" href="" disabled>
-<span class="icon is-small">
-<i class="fas fa-file-alt"></i>
-</span>
-<span>Paper</span>
-</a>
-<a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc115&sess=sess428">
-<span class="icon is-small">
-<i class="fas fa-chalkboard-teacher"></i>
-</span>
-<span>Session</span>
-</a>
-</div>
-</p>
-
-
-<hr>
-
-
-<p>
-<b>14:38 - 15:00 CST</b><br />
-<b>Piper: Pipelining OpenMP Offloading Execution through Compiler Optimization for Performance</b><br />
-<i><b><u>Konstantinos Parasyris</u></b>, Giorgis Georgakoudis, Johannes Doerfert, Ignacio Laguna, Tom Scogland</i><br />
-<div class="buttons">
-<a class="button is-primary" href="" disabled>
-<span class="icon is-small">
-<i class="fas fa-file-alt"></i>
-</span>
-<span>Paper</span>
-</a>
-<a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc127&sess=sess428">
-<span class="icon is-small">
-<i class="fas fa-chalkboard-teacher"></i>
-</span>
-<span>Session</span>
-</a>
-</div>
-</p>
-
-
-<hr>
-
-### Afternoon Break
-
-**15:00 - 15:30 CST**
 
 <hr>
 
 ### Session 4
 <p>
-<i>Session Chair: CJ Newburn</i>
+<i>Session Chair: </i>
 </p>
 
 <p>
-<b>15:30 - 15:53 CST</b><br />
-<b>Toward Performance Portability of AI Graphs Using SYCL</b><br />
-<i>Kumudha Narasimhan, <b><u>Ouadie El Farouki</u></b>, Mehdi Goli, Muhammad Tanvir, Svetlozar Georgiev, Isaac Ault</i><br />
+<b>11:25 - 11:44 MST</b><br />
+<b>Evaluating the performance portability of SYCL across CPUs and GPUs on bandwidth-bound applications </b><br />
+<i>István Z. Reguly</i><br />
+
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -341,6 +280,8 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
 
@@ -348,9 +289,11 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 
 <p>
-<b>15:53 - 16:15 CST</b><br />
-<b>ECP SOLLVE: Validation and Verification Testsuite Status Update and Compiler Insights for OpenMP</b><br />
-<i><b><u>Thomas Huber</u></b>, Swaroop Pophale, Nolan Baker, Michael Carr, Nikhil Rao, Jaydon Reap, Kristina Holsapple, Joshua Hoke Davis, Tobias Burnus, Seyong Lee, David E. Bernholdt, Sunita Chandrasekaran</i><br />
+<b>11:44 - 12:03 MST</b><br />
+<b>CuPBoP-AMD: Extending CUDA to AMD Platforms </b><br />
+<i>Jun Chen, Xule Zhou, and Hyesoon Kim</i><br />
+
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -365,33 +308,65 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
 
 <hr>
 
-### Panel
-
 <p>
-<b>16:15 - 17:00 CST</b><br />
-<b>Blending Accelerated Programming Models in the Face of Increasing Hardware Diversity</b><br />
-<i>Moderator: CJ Newburn</i><br />
-<i>Panelists: Tom Deakin, Ben Menadue, Christian Trott, Ana Lucia Varbanescu</i><br />
+<b>12:03 - 12:12 MST</b><br />
+<b>High-level GPU code: a case study examining JAX and OpenMP  </b><br />
+<i>Nestor Demeure, Theodore Kisner, Reijo Keskitalo, Rollin Thomas, Julian Borrill, and Wahid Bhimji</i><br />
+
+<!--
 <div class="buttons">
-<a class="button is-primary" href="https://docs.google.com/presentation/d/1ByRl0vIM-DUX3yRuUCrqopHhAotAL14e/">
+<a class="button is-primary" href="" disabled>
 <span class="icon is-small">
-<i class="fas fa-file-powerpoint"></i>
+<i class="fas fa-file-alt"></i>
 </span>
-<span>Slides</span>
+<span>Paper</span>
 </a>
-<a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=miscp111&sess=sess428">
+<a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc106&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
+
+
+
+<hr>
+
+<p>
+<b>12:12 - 12:21 MST</b><br />
+<b>Many Cores, Many Models: GPU Programming Model vs. Vendor Compatibility Overview  </b><br />
+<i>Andreas Herten</i><br />
+
+<!--
+<div class="buttons">
+<a class="button is-primary" href="" disabled>
+<span class="icon is-small">
+<i class="fas fa-file-alt"></i>
+</span>
+<span>Paper</span>
+</a>
+<a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc106&sess=sess428">
+<span class="icon is-small">
+<i class="fas fa-chalkboard-teacher"></i>
+</span>
+<span>Session</span>
+</a>
+</div>
+-->
+
+</p>
+
 
 
 <hr>
