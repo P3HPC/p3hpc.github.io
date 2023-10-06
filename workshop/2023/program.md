@@ -73,7 +73,7 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <hr>
 
 <p>
-<b>09:41 - 10:41 MST</b><br />
+<b>09:41 - 10:00 MST</b><br />
 <b>Performance Portability Evaluation of Blocked Stencil Computations on GPUs </b><br />
 <i>Oscar Antepara, Samuel Williams, Hans Johansen, Tuowen Zhao, Samantha Hirsch, Priya Goyal, and Mary Hall</i><br />
 
@@ -102,7 +102,7 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 ### Morning Break
 
-**10:00 - 10:30 CST**
+**10:00 - 10:30 MST**
 
 <hr>
 
