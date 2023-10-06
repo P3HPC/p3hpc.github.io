@@ -18,9 +18,11 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 </p>
 
 <p>
-<b>09:15 - 09:37 CST</b><br />
-<b>Heterogeneous Programming for the Homogeneous Majority</b><br />
-<i><b><u>Tom Deakin</u></b>, James Cownie, Wei-Chen Lin, Simon McIntosh-Smith</i><br />
+<b>09:03 - 09:22 MST</b><br />
+<b>A Performance-Portable SYCL Implementation of CRK-HACC for Exascale</b><br />
+<i>Esteban Rangel, John Pennycook, Adrian Pope, Nicholas Frontiere, Zhiqiang Ma, and Varsha Madananth</i><br />
+  
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -35,6 +37,8 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
 
@@ -42,9 +46,11 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 
 <p>
-<b>09:37 - 10:00 CST</b><br />
-<b>Leveraging Compiler-Based Translation to Evaluate a Diversity of Exascale Platforms</b><br />
-<i><b><u>Jacob Lambert</u></b>, Mohammad Monil, Seyong Lee, Allen Malony, Jeffrey Vetter</i><br />
+<b>09:22 - 9:41 MST</b><br />
+<b>Performance Evaluation of Heterogeneous GPU Programming Frameworks for Hemodynamic Simulations </b><br />
+<i>Aristotle Martin, Geng Liu, William Ladd, Seyong Lee, John Gounley, Jeffrey Vetter, Saumil Patel, Silvio Rizzi, Victor Mateevitsi, Joseph Insley, and Amanda Randles</i><br />
+
+<!--
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
@@ -59,10 +65,40 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <span>Session</span>
 </a>
 </div>
+-->
+
 </p>
 
 
 <hr>
+
+<p>
+<b>09:41 - 10:41 MST</b><br />
+<b>Performance Portability Evaluation of Blocked Stencil Computations on GPUs </b><br />
+<i>Oscar Antepara, Samuel Williams, Hans Johansen, Tuowen Zhao, Samantha Hirsch, Priya Goyal, and Mary Hall</i><br />
+
+<!--
+<div class="buttons">
+<a class="button is-primary" href="" disabled>
+<span class="icon is-small">
+<i class="fas fa-file-alt"></i>
+</span>
+<span>Paper</span>
+</a>
+<a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc126&sess=sess428">
+<span class="icon is-small">
+<i class="fas fa-chalkboard-teacher"></i>
+</span>
+<span>Session</span>
+</a>
+</div>
+-->
+
+</p>
+
+
+<hr>
+
 
 ### Morning Break
 
