@@ -12,7 +12,7 @@ hide_footer: true
 
 The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30PM Mountain.
 
-### Session 1
+### Session 1: Applications
 <p>
 <i>Session Chair: Scott Parker</i>
 </p>
@@ -106,7 +106,7 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 <hr>
 
-### Session 2
+### Session 2: Applications and Algorithms
 <p>
 <i>Session Chair: John Pennycook</i>
 </p>
@@ -195,7 +195,7 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 <hr>
 
 
-### Session 3
+### Session 3: Networking
 <p>
 <i>Session Chair: Judy Hill</i>
 </p>
@@ -255,7 +255,7 @@ The P3HPC workshop will be held on Monday, 13 November 2023 from 9:00AM - 12:30P
 
 <hr>
 
-### Session 4
+### Session 4: GPUs
 <p>
 <i>Session Chair: CJ Newburn</i>
 </p>
