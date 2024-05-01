@@ -3,7 +3,7 @@ title: P3HPC
 subtitle: Performance, Portability & Productivity in HPC
 layout: page
 comments: false
-show_sidebar: true
+show_sidebar: false
 callouts: home_callouts
 hide_footer: true
 ---
