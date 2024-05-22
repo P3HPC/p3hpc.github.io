@@ -26,7 +26,7 @@ permalink: /:categories/:year/:month/:day/:title/
 # Build settings
 markdown: kramdown
 #theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme:v0.14.0
 plugins:
   - jekyll-feed
 
