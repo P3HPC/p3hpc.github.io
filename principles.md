@@ -5,7 +5,7 @@ comments: false
 hide_footer: true
 ---
 
-_This page was last updated on April 27, 2022.__
+_This page was last updated on April 27, 2022._
 
 The most recent draft can be found [here][draft]; readers are encouraged to
 leave comments and suggestions, or to contact members of the P3HPC committee
