@@ -22,6 +22,8 @@
       link: https://p3hpcforum2020.alcf.anl.gov/committee/
 - name: Principles
   link: principles
+- name: Resources
+  link: resources
 - name: Previous Events
   dropdown:
     - name: Workshop 2023
