@@ -10,6 +10,16 @@ hide_footer: true
 
 # Submitting a Paper
 
+Authors are invited to submit original papers of no more than 12 pages,
+excluding tables, figures, references, and all appendices.  Papers must be at
+least 5 pages long.  Full papers will be published in the SC24 Workshops
+Proceedings.
+
+All submissions must be formatted using the IEEE proceedings template. The IEEE
+conference proceeding templates for LaTeX and MS Word provided by IEEE eXpress
+Conference Publishing are available for download
+[here](https://www.ieee.org/conferences/publishing/templates.html).
+
 Papers must be submitted electronically [via Linklings](https://submissions.supercomputing.org).
 
 Submissions will be reviewed by the program committee using a single blind

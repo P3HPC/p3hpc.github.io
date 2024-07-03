@@ -10,7 +10,7 @@ hide_footer: true
 
 # Program
 
-The P3HPC workshop will be held in November 2024.
+The P3HPC workshop will be held on November 18, 2024.
 
 The program will be made available here shortly after author notification.
 
