@@ -350,7 +350,7 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <p>
 <b>15:55 - 16:01 EST</b><br />
 <b>An Analysis into the Performance and Productivity of Rust in High Performance Computing</b><br />
-<i>Edmund Goodman, chard Kirk</i><br />
+<i>Edmund Goodman, Richard Kirk</i><br />
 
 <!--
 <div class="buttons">
