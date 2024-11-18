@@ -47,22 +47,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>Optimizing MILC-Dslash Performance on NVIDIA A100 GPU: Parallel Strategies using SYCL</b><br />
 <i>Amanda S. Dufek, Steven A. Gottlieb, Muaaz Gul Awan, Douglas Adriano Augusto, Jack Deslippe, and Brandon Cook</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b106/555400b106.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc126&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -83,22 +83,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>A Metric for HPC Programming Model Productivity</b><br />
 <i>Tom Lin, Tom Deakin, and Simon McIntosh-Smith</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b192/555400b192.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc121&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -111,22 +111,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>High-Performance, Scalable Geometric Multigrid via Fine-Grain Data Blocking for GPUs</b><br />
 <i>Oscar Antepara, Samuel Williams, Hans Johansen, and Mary Hall</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b177/555400b177.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc116&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -139,22 +139,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>Autonomous Execution for Multi-GPU Systems: Compiler Support</b><br />
 <i>Javid Baydamirli, Tal Ben Nun, and Didem Unat</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b129/555400b129.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc113&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -167,22 +167,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>Performance and Power: Systematic Evaluation of AI Workloads on Accelerators with CARAML</b><br />
 <i>Chelsea Maria John, Andreas Herten, Stepan Nassyr, and Carolin Penke</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b164/555400b164.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc113&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -195,22 +195,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>Development of Performance Portable Spline Solver for Exa-Scale Plasma Turbulence Simulation</b><br />
 <i>Yuuichi Asahi, Baptiste Legouix, Emily Bourne, Thomas Padioleau, Julien Bigot, Virginie Grandgirard, and Kevin Obrejan</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b117/555400b117.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc113&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -230,22 +230,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>Performance Modeling and Analysis of a de Bruijn Graph Based Local Assembly Kernel on Multiple Vendor GPUs</b><br />
 <i>LeAnn Lindsey, Nan Ding, Jack DeSlippe, and Muaaz Awan</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b092/555400b092.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc111&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -258,22 +258,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>Performance Portability via C++ PSTL, SYCL, OpenMP, and HIP: The Gaia AVU-GSR Case Study</b><br />
 <i>Giulio Malenza, Valentina Cesare, Marco Edoardo Santimaria, Robert Birke, Alberto Vecchiato, Ugo Becciani, and Marco Aldinucci</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b152/555400b152.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc122&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -286,22 +286,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>Performance Portable Optimizations of an Ice-sheet Modeling Code on GPU-supercomputers</b><br />
 <i>Oscar Antepara, Samuel Williams, Max Carlson, and Jerry Watkins</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b141/555400b141.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc122&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
@@ -323,22 +323,22 @@ The P3HPC workshop will be held on Monday, 18 November 2024 from 9:00AM - 5:30PM
 <b>RAJA Performance Suite: Performance Portability Analysis with Caliper and Thicket</b><br />
 <i>Olga Pearce, Jason Burmark, Rich Hornung, Befikir Bogale, Ian Lumsden, Michael McKinsey, Dewi Yokelson, David Boehme, Stephanie Brink, Michela Taufer, and Tom Scogland</i><br />
 
-<!--
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b206/555400b206.pdf">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
 <span>Paper</span>
 </a>
+<!--
 <a class="button is-primary" href="https://sc22.supercomputing.org/?post_type=page&p=3479&id=ws_p3hpc114&sess=sess428">
 <span class="icon is-small">
 <i class="fas fa-chalkboard-teacher"></i>
 </span>
 <span>Session</span>
 </a>
-</div>
 -->
+</div>
 
 </p>
 
