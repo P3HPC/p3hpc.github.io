@@ -1,0 +1,5 @@
+- **May 16**: Submissions Open
+- **August 7**: Paper Submission Deadline
+- **September 6**: Author Notification
+- **September 29**: Camera-Ready Submissions
+- **November 16-21**: P3HPC Workshop at SC25
