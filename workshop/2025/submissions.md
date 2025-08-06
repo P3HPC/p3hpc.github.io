@@ -15,10 +15,9 @@ excluding references and all appendices.  Papers must be at least 5 pages long,
 and no more than 16 pages including references and all appendices. Full papers
 will be published in the SC25 Workshops Proceedings.
 
-All submissions must be formatted using the IEEE proceedings template. The IEEE
-conference proceeding templates for LaTeX and MS Word provided by IEEE eXpress
-Conference Publishing are available for download
-[here](https://www.ieee.org/conferences/publishing/templates.html).
+All submissions must be formatted using the ACM proceedings template. The ACM
+conference proceeding templates for LaTeX and MS Word provided 
+[here](https://www.acm.org/publications/proceedings-template).
 
 Papers must be submitted electronically [via Linklings](https://submissions.supercomputing.org).
 
