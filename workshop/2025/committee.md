@@ -20,5 +20,30 @@ To contact the organizing committee, please e-mail
 
 # Program Committee
 
+- Yuuichi Asahi (CEA)
+- Muaaz Awan (Lawrence Berkeley National Laboratory)
+- Jan Ciesko (Sandia National Laboratories)
+- Lisa Claus (Lawrence Berkeley National Laboratory)
+- Brandon Cook (Lawrence Berkeley National Laboratory)
+- Tom Deakin (University of Bristol)
+- Charles Ferenbaugh (Los Alamos National Laboratory)
+- Yasaman Ghadar (Argonne National Laboratory)
+- Mehdi Goli (Codeplay)
+- Jeff Hammond (NVIDIA)
+- Judith Hill (Lawrence Berkeley National Laboratory)
+- John Holmen (Oak Ridge National Laboratory)
+- Balint Joo (NVIDIA)
+- Ian Karlin (NVIDIA)
+- Abdullah Kayi (IBM)
+- Nicholson Koukpaiza (Oak Ridge National Laboratory)
+- Gihan Mudalige (University of Warwick)
+- Esteban Rangel (Argonne National Lab)
+- Istvan Reguly (Pazmany Peter Catholic University)
+- Philip Roth (Oak Ridge National Laboratory)
+- Jason Sewall (NVIDIA)
+- Mathialakan Thavappiragasam (AMD)
+- Srinath Vadlamani (Hewlett Packard Enterprises)
+- James White (Oak Ridge National Laboratory)
+
 If you would be interested in serving on the P3HPC program committee in future,
 please contact the organizing committee.
