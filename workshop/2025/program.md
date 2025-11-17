@@ -16,16 +16,9 @@ The P3HPC workshop will be held on Monday, 17 November 2025 from 9:00AM - 5:30PM
 
 <p>
 <b>09:05 - 09:30 CST</b><br />
+<b>Featured Speaker</b><br />
 <b>Comparing Cross-Platform Performance via Node-to-Node Scaling Studies</b><br />
 <i>Kenneth Weiss</i><br />
-<div class="buttons">
-<a class="button is-primary" href="" disabled>
-<span class="icon is-small">
-<i class="fas fa-file-alt"></i>
-</span>
-<span>Paper</span>
-</a>
-</div>
 </p>
 
 
