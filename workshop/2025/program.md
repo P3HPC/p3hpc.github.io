@@ -214,5 +214,13 @@ The P3HPC workshop will be held on Monday, 17 November 2025 from 9:00AM - 5:30PM
 <b>How does abstraction enable Performance, Portability, and Productivity?</b><br />
 <b>Moderator:</b><i>CJ Newburn</i><br />
 <b>Panelists:</b><i>Jan Ciesko, Stephen Jones, Rio Yokota, Yanbo Zhao</i><br />
+<div class="buttons">
+ <a class="button is-primary" href="https://docs.google.com/presentation/d/1v3jqRYjhoSxCrx8NikjqHQRXQwDdarqwuIvsOmYI8S8/edit?usp=sharing">
+  <span class="icon is-small">
+   <i class="fas fa-chalkboard-teacher"></i>
+  </span>
+  <span>Slides</span>
+</a>
+</div>
 </p>
 
