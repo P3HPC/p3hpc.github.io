@@ -1,1 +1,4 @@
-This year's dates will be announced shortly.
+- **August 5** : Paper Submission Deadline
+- **September 4**: Author Notification
+- **September 25**: Camera-Ready Submissions Due
+- **November 15-20**: P3HPC Workshop at SC26
