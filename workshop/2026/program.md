@@ -107,7 +107,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <p>
 <b>11:42 - 12:06 CST</b><br />
 <b>A Performance-Portable GPU-Accelerated Solution for Particle-Particle Particle-Mesh Method using Cabana and FFTX</b><br />
-<i>Het Mankad, Zoe Barbeau, Phillip Colella, Sanil Rao, Franz Franchetti, Jeffrey Vetter, Keita Teranishi</i><br />
+<i>Zoe Barbeau, Het Menkad, Phillip Colella, Sanil Rao, Franz Franchetti, Jeffrey Vetter, Keita Teranishi</i><br />
 <div class="buttons">
 <a class="button is-primary" href="" disabled>
 <span class="icon is-small">
