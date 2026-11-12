@@ -10,7 +10,7 @@ hide_footer: true
 
 # Program
 
-The P3HPC workshop will be held on Sunday, 15 November 2025 from 9:00AM - 5:30PM Central.
+The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM Central.
 
 ### Session 1
 
