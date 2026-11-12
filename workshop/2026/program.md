@@ -30,7 +30,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>14 GPU Programming Paradigms Put to the Test: Performance Portability and Halstead Difficulty in Scientific Computing</b><br />
 <i>Jonas Schuhmacher, Hans-Joachim Bungartz</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00084">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -55,7 +55,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>Achieving Performance Portability for Semi-Lagrangian Simulations via Automated Layout and Loop Tuning</b><br />
 <i>Etienne Malaboeuf, Julien Bigot, Kévin Obrejan, Virginie Grandgirard, Emily Bourne, Thomas Padioleau</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00080">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -73,7 +73,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>Performance Portability of Multi-GPU Hydrodynamics: SCALSALE with MPI+OpenMP Target Offload</b><br />
 <i>Avitay Geltman, Shahar Maimon, Yehonatan Fridman, Ron Wagner, Shay Shani, Re'em Harel</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00089">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -91,7 +91,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>Meganeura: Vulkan and Metal as a Performance-Portability Layer for GPU Training and Inference</b><br />
 <i>Dzmitry Malyshau</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00081">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -109,7 +109,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>A Performance-Portable GPU-Accelerated Solution for Particle-Particle Particle-Mesh Method using Cabana and FFTX</b><br />
 <i>Zoe Barbeau, Het Menkad, Phillip Colella, Sanil Rao, Franz Franchetti, Jeffrey Vetter, Keita Teranishi</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00088">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -127,7 +127,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>A Multi-Layer Workflow for Diagnosing Performance Portability in RAJA Applications</b><br />
 <i>Befikir Bogale, Ian Lumsden, Stephanie Brink, Olga Pearce, Michela Taufer</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00082">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -170,7 +170,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>Extending the Performance Portability of Julia to Long-Vector Architectures</b><br />
 <i>Rintaro Togo, Keichi Takahashi, Tomonori Hayami, Kota Sakakura, Takashi Soga, Arata Endo, Susumu Date</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00090">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -188,7 +188,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>The Price of a Single Source: Performance Portability of Chapel and Julia across CPUs and GPUs</b><br />
 <i>Andrew Morgan</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00083">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -206,7 +206,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>Performance Improvement of Multi-Dimensional Parallel Loops in Kokkos</b><br />
 <i>Adrien Taberner, Hariprasad Kannan, Yuuichi Asahi, Dong Hun Lee, Trévis Morvany, Jean-François David, Nevin Liber, Nicolas Morales, Christian R. Trott, Julien Bigot, Damien Lebrun-Grandie</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00085">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -224,7 +224,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>Mojo-Driven Performance Portability for LBM</b><br />
 <i>Giulio Malenza, Matthew A. Smith, Zadok Storkey, Massimiliano Meneghin, Marco Aldinucci, Robert Birke, Steven A. Wright</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00087">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
@@ -242,7 +242,7 @@ The P3HPC workshop will be held on Sunday, 15 November 2026 from 9:00AM - 5:30PM
 <b>Triton Attention Backend: Portable High-Performance Paged Attention for Production-Grade LLM Inference</b><br />
 <i>Burkhard Ringlein, Jan van Lunteren, Radu Stoica, Thomas Parnell</i><br />
 <div class="buttons">
-<a class="button is-primary" href="" disabled>
+<a class="button is-primary" href="https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00086">
 <span class="icon is-small">
 <i class="fas fa-file-alt"></i>
 </span>
